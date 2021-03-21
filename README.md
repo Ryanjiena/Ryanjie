@@ -137,7 +137,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65917%20lines%20of%20code-blue)
 
@@ -145,7 +145,7 @@
 
 > 🏆 921 Contributions in the Year 2021
  > 
-> 📦 362.1 kB Used in Github's Storage 
+> 📦 362.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,8 +182,8 @@ Sunday       98 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ██████████████████░░░░░░░   75.08% 
-IntelliJ                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.92%
+IntelliJ                 2 hrs 7 mins        ██████████████░░░░░░░░░░░   59.17% 
+VS Code                  1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   40.83%
 
 ```
 
