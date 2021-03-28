@@ -145,7 +145,7 @@
 
 > 🏆 921 Contributions in the Year 2021
  > 
-> 📦 366.9 kB Used in Github's Storage 
+> 📦 367.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,7 +182,7 @@ Sunday       98 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-IntelliJ                 1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
