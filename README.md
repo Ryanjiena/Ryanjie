@@ -143,9 +143,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2,135 Contributions in the Year 2021
+> 🏆 2,143 Contributions in the Year 2021
  > 
-> 📦 465.0 kB Used in Github's Storage 
+> 📦 465.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -198,5 +198,5 @@ Groovy                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
