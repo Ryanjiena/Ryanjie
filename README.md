@@ -137,15 +137,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65917%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,473 Contributions in the Year 2021
+> 🏆 2,480 Contributions in the Year 2021
  > 
-> 📦 484.2 kB Used in Github's Storage 
+> 📦 485.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -198,5 +198,5 @@ Groovy                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
